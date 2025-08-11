@@ -1,4 +1,4 @@
-# Name Entity Recognition using PyTorch
+# Name Entity Recognition using PyTorch (CPU Mode)
 ---
 
 __Just simple example for NER using pytorch__
