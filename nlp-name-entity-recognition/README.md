@@ -1,4 +1,4 @@
-# Name Entity Recognition
+# Name Entity Recognition using PyTorch
 ---
 
 __Just simple example for NER using pytorch__
@@ -61,7 +61,7 @@ __Optional: Set directory for model downloaded__
 ```bash
 conda env config vars set TORCH_HOME="C:\Users\<your user name>\Desktop\project\ds\pytorch\model"
 conda env config vars set TRANSFORMERS_CACHE="C:\Users\<your user name>\Desktop\project\ds\pytorch\model"
-
+```
 Here example figure when your device is downloading model:
 
 ![Alt Text](https://github.com/MuhammadMukhlis220/pytorch/blob/main/nlp-name-entity-recognition/pic/initiate_model_download.png)
@@ -72,6 +72,7 @@ We will give entity results to our string from `Natus Vincere is an ukrainian es
 And here the result:
 
 ![Alt Text](https://github.com/MuhammadMukhlis220/pytorch/blob/main/nlp-name-entity-recognition/pic/result_1.png)
+
 Figure 2
 
 __That all, give it a try!__
