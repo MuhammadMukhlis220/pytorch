@@ -1,11 +1,9 @@
-https://huggingface.co/blog/sentiment-analysis-python
-
 # Sentiment Analysis using PyTorch (CPU Mode)
 ---
 
 __Just simple example for SA using pytorch__
 
-To anyone who want get complete version from this repo, you can go to this [link](https://huggingface.co/blog/sentiment-analysis-python). It provides the basic of sentiment analysis and code that i already copy paste for this repo).
+To anyone who want get complete version from this repo, you can go to this [link](https://huggingface.co/blog/sentiment-analysis-python). It provides the basic of sentiment analysis and code that i already copy paste for this repo.
 
 ## Example
 
@@ -57,7 +55,9 @@ From file pipeline.py:
 In our file [ner-pytorch.ipynb](https://github.com/MuhammadMukhlis220/pytorch/blob/main/nlp-sentiment-analysis/sentiment-analysis-pytorch.ipynb) it consist 2 language example of comments, Indonesia and English. This model is capable for that 2 languages.
 
 Here the results:
+
 ![Alt Text](https://github.com/MuhammadMukhlis220/pytorch/blob/main/nlp-sentiment-analysis/pic/result_1.png)
+
 Figure 2
 
 If you don't want use default model and want to use your favorite model, you can use this code:
